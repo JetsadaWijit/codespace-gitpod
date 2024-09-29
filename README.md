@@ -1,6 +1,6 @@
 # `Information`
 
-[`Repository`](https://github.com/gitpod-io/openvscode-server)
+[`GitPod OpenVSCode Server`](https://github.com/gitpod-io/openvscode-server)
 
 # `Start`
 
